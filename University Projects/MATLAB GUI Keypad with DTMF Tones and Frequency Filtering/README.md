@@ -1,1 +1,2 @@
-
+## MATLAB-GUI-Keypad-with-DTMF-Tones-and-Frequency-Filtering
+In this project, I use MATLAB's GUI functionality to design a keypad with buttons that are each assigned a unique DTMF tone. We also incorporate three graphs that display the DTMF input, filtered low frequency signal, and filtered high frequency signal. This project showcases the use of MATLAB's GUI capabilities and signal processing techniques.
