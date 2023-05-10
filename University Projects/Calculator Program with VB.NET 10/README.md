@@ -1,1 +1,2 @@
-
+## Calculator Program with VB.NET 10
+This code implements a basic calculator program with a graphical user interface (GUI) created using Visual Basic 2010. The program allows the user to perform arithmetic operations such as addition, subtraction, multiplication, and division on two numbers. It also includes a button to clear the current calculation and start over. The GUI includes textboxes to enter the two numbers and display the result, as well as buttons for each arithmetic operation. The program uses simple if-else statements to determine which operation the user wants to perform and performs the calculation accordingly.	
