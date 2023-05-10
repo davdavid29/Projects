@@ -1,1 +1,2 @@
-
+## ATM Machine Code in Java Swing GUI with MySQL Database
+This project implements a basic ATM machine using Java Swing GUI and a MySQL database through the use of the phpMyAdmin web application. The user can input their account number and PIN, withdraw or deposit money, and check their account balance. The program connects to a MySQL database to store account information and transactions. It uses event listeners to detect button clicks and perform corresponding actions. The program displays account information and transaction history in the GUI.	
