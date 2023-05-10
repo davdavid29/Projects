@@ -1,1 +1,2 @@
-
+## Student Record Management System Code in C++
+This project implements a basic student record management system that allows the user to add, search, edit, and delete student records. The program stores the student's ID, course, name, age, and gender in a struct and can store up to five records. It uses a switch statement to determine which option the user chooses and uses loops to iterate through the student records. The program outputs the student records to the console.	
